@@ -1,0 +1,15 @@
+# dirs
+.vscode/
+CMakeFiles/
+
+# files
+cmake_install.cmake
+compile_commands.json
+update.zip
+capirinha
+Makefile
+
+# ndk
+android-ndk-r26b/
+
+
