@@ -3,6 +3,8 @@
 CMakeFiles/
 
 # files
+res/META-INF/com/google/android/update-binary
+CMakeCache.txt
 cmake_install.cmake
 compile_commands.json
 update.zip
